@@ -1,4 +1,4 @@
-import org.openrndr.application
+/** import org.openrndr.application
 import org.openrndr.color.ColorRGBa
 import org.openrndr.extra.noclear.NoClear
 import org.openrndr.extra.noise.random
@@ -36,4 +36,4 @@ fun main() = application {
     }
 
 }
-
+**/
